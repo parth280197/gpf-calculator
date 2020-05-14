@@ -1,0 +1,11 @@
+.formContainer {
+    display: flex;
+    width :1086px;
+    height: 36px;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 5px auto;
+}
+.formContainer .field {
+    width: 180px;
+}
